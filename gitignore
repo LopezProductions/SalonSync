@@ -1,0 +1,36 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# macOS & Linux files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# System files
+*.bak
+*.swp
+*~
+
+# Private keys or tokens (add your own exclusions as needed)
+secrets.env
+.env
+
+# Node/npm related (in case of frontend)
+node_modules/
+dist/
+build/
