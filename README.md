@@ -26,3 +26,6 @@ This repo contains the templates and setup instructions for the back-office inte
 - [Dify Prompts + Agent Flow](dify/intents_prompt.md)
 - [Make Automation Steps](make/Make_Automation_Steps.md)
 
+## 🌐 Live Docs
+
+👉 [View the full documentation](https://salonsync.xyz)
