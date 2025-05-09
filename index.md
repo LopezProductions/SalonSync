@@ -35,7 +35,7 @@ header.custom-header a {
   <img src="/assets/images/logo.png" alt="SalonSync Logo" width="150" style="margin-bottom:1rem;" />
   <h1>SalonSync</h1>
   <p>AI booking system for barbers & stylists</p>
-  <a href="https://github.com/<your-username>/SalonSync" target="_blank">View on GitHub</a>
+  <a href="https://github.com/LopezProductions/SalonSync" target="_blank">View on GitHub</a>
 </header>
 
 <section>
