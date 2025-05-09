@@ -3,7 +3,10 @@ title: SalonSync
 layout: default
 ---
 
+<img src="assets/images/logo.png" alt="SalonSync Logo" width="160" style="margin-bottom: 1em;" />
+
 # 💈 SalonSync AI System
+
 
 Welcome to the official documentation for **SalonSync** — an AI-powered booking and profile automation tool for salons and barbers.
 
