@@ -1,0 +1,27 @@
+body {
+  background-color: #121212;
+  color: #f3f3f3;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3 {
+  color: #D72638;
+}
+
+a {
+  color: #D72638;
+}
+
+img {
+  border-radius: 12px;
+}
+
+/* Future animated salon tools idea */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+
+.floating-item {
+  animation: float 3s ease-in-out infinite;
+}
