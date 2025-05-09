@@ -31,3 +31,26 @@ Thank you for your interest in improving SalonSync — an AI-powered appointment
 2. **Create a Branch**
    ```bash
    git checkout -b feature/my-improvement
+
+3. Make Your Changes
+
+Update prompts, add templates, or modify .md docs.
+
+4. Commit + Push
+git commit -m "Added new booking agent prompt"
+git push origin feature/my-improvement
+
+5.Open a Pull Request
+Title it clearly and explain what was added or fixed.
+
+💡 Best Practices
+Use clear file naming (e.g., booking_prompt_v2.md)
+
+Keep markdown organized and link related diagrams if needed
+
+Comment your JSON templates or scenarios where possible
+
+🙌 Join the Project
+SalonSync is still evolving. If you're interested in collaborating more deeply (e.g., testing flows, designing UI, or launching beta trials), feel free to open an issue or DM the maintainers.
+
+Together, we can streamline the future of client experience.
