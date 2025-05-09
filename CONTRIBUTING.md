@@ -40,7 +40,7 @@ Update prompts, add templates, or modify .md docs.
 git commit -m "Added new booking agent prompt"
 git push origin feature/my-improvement
 
-5.Open a Pull Request
+5. Open a Pull Request
 Title it clearly and explain what was added or fixed.
 
 💡 Best Practices
