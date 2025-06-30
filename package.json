@@ -1,6 +1,7 @@
 {
   "name": "salonsync-landing",
   "version": "1.0.0",
+  "type": "module",
   "description": "SalonSync - Smart booking platform for barbers and stylists",
   "main": "index.js",
   "scripts": {

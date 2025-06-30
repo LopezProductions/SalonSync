@@ -1,5 +1,5 @@
 import React from 'react'
-import { Search, Calendar, UserCheck, Repeat, Settings, Sync, CreditCard, TrendingUp } from 'lucide-react'
+import { Search, Calendar, UserCheck, Repeat, Settings, RefreshCw, CreditCard, TrendingUp } from 'lucide-react'
 
 const HowItWorks = () => {
   const clientSteps = [
@@ -32,7 +32,7 @@ const HowItWorks = () => {
       description: 'Create your profile and customize your services'
     },
     {
-      icon: Sync,
+      icon: RefreshCw,
       title: 'Sync calendar',
       description: 'Connect your existing calendar and availability'
     },
