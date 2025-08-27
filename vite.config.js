@@ -10,6 +10,6 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     sourcemap: true
-  },
-  base: '/SalonSync/'
+  }
+  // base: '/SalonSync/' // Commented out for local development
 }) 

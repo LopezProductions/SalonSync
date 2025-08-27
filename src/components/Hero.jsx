@@ -11,7 +11,7 @@ const Hero = ({ onChatClick }) => {
   }
 
   return (
-    <section className="pt-20 pb-16 bg-gradient-to-br from-salon-light to-white">
+    <section className="py-16 bg-gradient-to-br from-salon-light to-white">
       <div className="container-custom section-padding">
         <div className="text-center max-w-4xl mx-auto">
           {/* Main Headline */}

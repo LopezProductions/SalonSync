@@ -22,22 +22,24 @@ function App() {
       <div className="min-h-screen bg-white">
         <Header onChatClick={openChatbot} />
         
-        <Routes>
-          <Route path="/" element={
-            <>
-              <Hero onChatClick={openChatbot} />
-              <HowItWorks />
-              <SmartBooking onChatClick={openChatbot} />
-              <FeatureShowcase />
-              <MobileAppTeaser />
-              <Testimonials />
-              <FAQ />
-            </>
-          } />
-          <Route path="/client" element={<div className="pt-20">Client Dashboard Coming Soon</div>} />
-          <Route path="/barber" element={<div className="pt-20">Barber Dashboard Coming Soon</div>} />
-          <Route path="/chat" element={<div className="pt-20">Chat Interface Coming Soon</div>} />
-        </Routes>
+        <main className="pt-16">
+          <Routes>
+            <Route path="/" element={
+              <>
+                <Hero onChatClick={openChatbot} />
+                <HowItWorks />
+                <SmartBooking onChatClick={openChatbot} />
+                <FeatureShowcase />
+                <MobileAppTeaser />
+                <Testimonials />
+                <FAQ />
+              </>
+            } />
+            <Route path="/client" element={<div className="pt-20">Client Dashboard Coming Soon</div>} />
+            <Route path="/barber" element={<div className="pt-20">Barber Dashboard Coming Soon</div>} />
+            <Route path="/chat" element={<div className="pt-20">Chat Interface Coming Soon</div>} />
+          </Routes>
+        </main>
         
         <Footer />
         
